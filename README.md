@@ -29,7 +29,7 @@ In addition, you can use these solutions however you want, they are free to copy
 Note that the solutions available are to assist in studies, simply copying and pasting the codes can invalidate your solution, since the platform has a plagium detection system.
 
 ## License
-The solutions are available under the <a href="#" target="_blank">MIT License</a>.
+The solutions are available under the <a href="https://github.com/gabriaraujo/uri/blob/master/LICENSE" target="_blank">MIT License</a>.
 
 ## Questions?
 If you have any questions, please feel free to contact me.
