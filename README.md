@@ -15,7 +15,7 @@ This repository is part of my personal studies and I would be very happy to rece
 E-mail: <a href="mailto:gabrielcaetanodm@gmail.com">gabrielcaetanodm@gmail.com</a> | 
 LinkedIn: <a href="https://www.linkedin.com/in/gabrielcaetanodm/" target="_blank">gabrielcaetanodm</a>
 
-In addition, you can use these solutions however you want, they are free to copy, change and improve. They are available to help the community, especially for beginning programmers and also for those who are training for programming competitions. You can also check out my URI Online Judge profile by clicking <a href="https://www.urionlinejudge.com.br/judge/pt/profile/280758" target="_blank">here</a>.
+In addition, you can use these solutions however you want, they are free to copy, change and improve. They are available to help the community, especially for beginning programmers and also for those who are training for programming competitions. You can also check out my URI Online Judge profile by clicking <a href="https://www.urionlinejudge.com.br/judge/en/profile/280758" target="_blank">here</a>.
 
 ## How to use
 - The solutions are divided by language and the name of each file indicates the problem ID.
