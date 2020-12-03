@@ -1,5 +1,7 @@
 # URI Online Judge Solutions
-> Problems solved in the URI Online Judge platform for training in programming contests.
+<div align="center">
+  <img src="./design/splash.png" />
+</div>
 
 ## 📑 About
 These are my solutions to URI Online Judge problems. Whenever possible I will try to add more solutions to this repository. Most problems are solved in 
